@@ -1,0 +1,11 @@
+http://www.mypersonalchef.com.ng/
+http://www.mypersonalchef.com.ng/user/index
+http://www.mypersonalchef.com.ng/user/myProfile
+http://www.mypersonalchef.com.ng/user/viewChefs
+http://www.mypersonalchef.com.ng/user/viewMeals
+http://www.mypersonalchef.com.ng/user/newDishes
+http://www.mypersonalchef.com.ng/user/newPlaces
+http://www.mypersonalchef.com.ng/user/chefOfTheMonth
+http://www.mypersonalchef.com.ng/user/ingredientsOfTheMonth
+http://www.mypersonalchef.com.ng/user/shoppingMarkets
+http://www.mypersonalchef.com.ng/user/cookingTips

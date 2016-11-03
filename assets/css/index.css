@@ -1,0 +1,237 @@
+.modal-footer {
+				background-color: #FFFFFF;
+				border-bottom-right-radius: 5px;
+				border-bottom-left-radius: 5px;
+			}
+			
+			.font-16 { font-size: 15px!important; }
+
+			.modal-body {
+				background-color: #FFFFFF;
+			}
+
+			.modal-header {
+				background-color: #FFFFFF;
+				border-top-right-radius: 5px;
+				border-top-left-radius: 5px;
+			}
+
+			#input {
+				border-radius:
+			}
+
+			.error{
+				padding-left: 10px;
+				color: red;
+				font-size: 11px;
+				font-weight: 100;
+			}
+
+			input[type="text"],
+			input[type="email"],
+			input[type="password"],
+			input[type="tel"],
+			input[type="date"],
+			input[type="number"],
+			input[type="time"],
+			textarea,
+			textarea:focus,
+			.textarea,
+			.textarea:focus,
+			input[type="email"]:focus,
+			input[type="tel"]:focus,
+			input[type="date"]:focus,
+			input[type="number"]:focus,
+			input[type="text"]:focus,
+			input[type="time"]:focus,
+			input[type="password"]:focus {
+
+				border: none;
+				box-shadow: none;
+				border-bottom: 1px solid #CBE2CB;
+				font-family: 'c_l';
+				font-size: 12px;
+			}
+			
+			.initial-display { display: initial; }
+			
+			.rslider {
+				margin: 10px;
+			}
+
+			.rs-control .rs-range-color {
+			    background-color: #cbe2cb;
+			}
+			.rs-control .rs-path-color {
+			    background-color: white;
+			}
+			.rs-control .rs-handle:after {
+			    background-color: #5abc6c;
+			}
+			.rs-control .rs-bg-color {
+			    background-color: white;
+			}
+			.rs-tooltip {
+				margin-top: -10px!important;
+				margin-left: -21px!important;
+			}
+
+			.miNav li a {
+				color: #FFE319;
+				font-size:20px;
+				padding-top: 0px;
+				padding-bottom: 40px;
+				font-weight: 100;
+			}
+
+
+			.miNav li i {
+				color: #FFE319;
+				font-size:25px;
+			}
+
+			.miNav li a:hover, .miNav li a:target, .miNav li i:hover, .miNav li:hover {
+				/*  background-color:rgba(255, 255, 255, 0.1); */
+				background-color: inherit;
+				font-weight: bold;
+			}
+
+			@font-face {
+			    font-family: 'icomoon';
+			    src:     url("<?=base_url('assets/icons/icomoon.eot?d6820f');?>");
+			    src:     url("<?=base_url('assets/icons/icomoon.eot?d6820f#iefix');?>") format('embedded-opentype'),
+			         url("<?=base_url('assets/icons/icomoon.ttf?d6820f');?>") format('truetype'),
+			         url("<?=base_url('assets/icons/icomoon.woff?d6820f');?>") format('woff'),
+			         url("<?=base_url('assets/icons/icomoon.svg?d6820f#icomoon');?>") format('svg');
+			    font-weight: normal;
+			    font-style: normal;
+			}
+
+			@font-face {
+				font-family: 'c_l';
+				src: url("<?=base_url('assets/fonts/Champagne_&_Limousines.ttf');?>") format('truetype');
+				font-weight : 600;
+				/* Better Font Rendering =========== */
+			    -webkit-font-smoothing: antialiased;
+			    -moz-osx-font-smoothing: grayscale;
+				
+			}
+
+			@font-face {
+				font-family: 'c_l_bold';
+				src: url("<?=base_url('assets/fonts/Champagne_&_Limousines_Bold.ttf');?>") format('truetype');
+				font-weight : 600;
+				/* Better Font Rendering =========== */
+			    -webkit-font-smoothing: antialiased;
+			    -moz-osx-font-smoothing: grayscale;
+			}
+
+			@font-face {
+				font-family: 'c_l_italic';
+				src: url("<?=base_url('assets/fonts/Champagne_&_Limousines_Italic.ttf');?>") format('truetype');
+				font-weight : 600;
+				/* Better Font Rendering =========== */
+			    -webkit-font-smoothing: antialiased;
+			    -moz-osx-font-smoothing: grayscale;
+			}
+
+			@font-face {
+				font-family: 'c_l_bold_italic';
+				font-weight : 600;
+				src: url("<?=base_url('assets/fonts/Champagne_&_Limousines_Bold_Italic.ttf');?>") format('truetype');
+				/* Better Font Rendering =========== */
+			    -webkit-font-smoothing: antialiased;
+			    -moz-osx-font-smoothing: grayscale;
+			}
+
+			.fontface { font-family: 'c_l'; font-weight : 600;}
+			.fontfacebold  { font-family: 'c_l_bold'; font-weight : 600; }
+			.fontfaceitalic { font-family: 'c_l_italic'; font-weight : 600; }
+			.fontfacebolditalic { font-family: 'c_l_bold_italic'; font-weight : 600; }
+
+
+			[class^="icon-"], [class*=" icon-"] {
+			    /* use !important to prevent issues with browser extensions that change fonts */
+			    font-family: 'icomoon' !important;
+			    speak: none;
+			    font-style: normal;
+			    font-weight: normal;
+			    font-variant: normal;
+			    text-transform: none;
+			    line-height: 1;
+
+			    /* Better Font Rendering =========== */
+			    -webkit-font-smoothing: antialiased;
+			    -moz-osx-font-smoothing: grayscale;
+			}
+			
+			.font-danger {
+				font-weight: 600!important;
+				color:red!important;
+			}
+			
+			.font-1 { font-size: 1.3em!important; }
+			.font-1-4 { font-size: 1.2em!important; }
+			.font-11 {font-size: 12px !important; font-weight: 300!important; color:#fff!important;}
+			.font-12 {font-size: 12px !important; }
+			.icon-shopping-markets:before {
+			    content: "\e901";
+			}
+			.icon-ingredients-of-the-month:before {
+			    content: "\e902";
+			}
+			.icon-chef-of-the-month:before {
+			    content: "\e903";
+			}
+			.icon-new-places:before {
+			    content: "\e904";
+			}
+			.icon-cooking-tips:before {
+			    content: "\e905";
+			}
+			.icon-new-dishes:before {
+			    content: "\e900";
+			}
+
+
+			span#charles {
+				font-size:15px;
+			}
+
+			.weight-300 {font-weight: 300;}
+			.weight-500 {font-weight: 500;}
+
+			.line-ash {
+				border: none;
+				height: 1px!important;
+				background-color: #232121;
+				margin: 20px 0px 20px 0px;
+				box-shadow: 0px 0px 100px 2px #fff;
+				-webkit-box-shadow: 0px 0px 100px 2px #fff;
+			}
+			.no-decoration, .no-decoration:active, .no-decoration:hover {text-decoration: none!important;}
+			.other-font {font-family: 'c_l'; }
+			html, body {
+				font-family: 'c_l_bold'!important;
+				font-weight : normal;
+			}
+
+			@media screen and (max-width: 770px) {
+				.mobile_header {
+					height: 130%!important;
+				}
+
+				.mobile_part9 {
+					height: 30%!important;
+					margin-top: 50px!important;
+				}
+
+				.mobile_part3 {
+					margin-top: 0px!important;
+					height: calc(100$ - 50px)!important;
+				}
+
+				.mobile-height-2x {
+					height: 200%;
+				}
+			}

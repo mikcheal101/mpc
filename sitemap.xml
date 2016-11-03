@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84 http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
+<!-- Created by phpSitemapNG version 1.5.3 -->
+<!-- Last update of sitemap 2016-04-12T23:49:44+00:00 -->
+<url>
+<loc>http://www.mypersonalchef.com.ng/</loc>
+<lastmod>2016-04-12T23:49:38+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://www.mypersonalchef.com.ng/user/index</loc>
+<lastmod>2016-04-12T23:49:38+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://www.mypersonalchef.com.ng/user/myProfile</loc>
+<lastmod>2016-04-12T23:49:38+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://www.mypersonalchef.com.ng/user/viewChefs</loc>
+<lastmod>2016-04-12T23:49:38+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://www.mypersonalchef.com.ng/user/viewMeals</loc>
+<lastmod>2016-04-12T23:49:38+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+</urlset>

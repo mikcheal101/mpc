@@ -1,0 +1,39 @@
+- create the directory assets/angular/angular.min.js
+- create the directory assets/angular/app.js
+- create the directory assets/angular/mealsCntrl.js
+
+
+
+============================================================
+
+
+user/viewMeals
+	- after adding to cart display a message saying added to cart
+	- remove the eye icon and leave only the cart icon
+	- after checking out send an email to the chef and the admin also display an alert
+	- add mobile number on the home page
+	- guidelines ***
+	- space for google likes [would be added when google+ verification is added]
+	- make the chef url page ***
+	- messaging
+	- meals display my distance from chef
+	- message when meal is not open for order
+	- mealplan implementation meals restriction
+	- socket.io implementation
+		- user
+			- adding to cart
+			- viewing cart
+			- viewMeals 
+		
+		- chef
+			- orders table 
+			- messaging board =
+	
+	
+	
+
+	- application letter and cv to careers@emergingplatforms.com for java position & Server administrator
+	- cv to theodorau@proxynetgroup.com ***
+	- cv to theodorau@proxynetgroup.com ***
+	
+	

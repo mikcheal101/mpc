@@ -1,0 +1,109 @@
+@font-face{
+	font-family: curly-text;
+	src: url("../fonts/AMAZB__0.TTF");
+}
+
+@font-face{
+	font-family: curly-text-1;
+	src: url("../fonts/AMAZI__0.TTF");
+}
+
+@font-face{
+	font-family: curly-text-2;
+	src: url("../fonts/AMAZR__0.TTF");
+}
+
+@font-face{
+	font-family: LatoLatin;
+	src: url("../fonts/LatoLatin-Hairline.ttf");
+}
+
+@font-face{
+	font-family: LatoLatinBold;
+	src: url("../fonts/LatoLatin-Bold.ttf");
+}
+
+@font-face{
+	font-family: LatoLatinHeavy;
+	src: url("../fonts/LatoLatin-Heavy.ttf");
+}
+
+@font-face{
+	font-family: LatoLatinHeavy;
+	src: url("../fonts/LatoLatin-Heavy.ttf");
+}
+
+@font-face{
+	font-family: ama_one;
+	src: url("../fonts/AMAZB__0.TTF");
+}
+
+@font-face{
+	font-family: ama_two;
+	src: url("../fonts/AMAZI__0.TTF");
+}
+
+@font-face{
+	font-family: ama_three;
+	src: url("../fonts/AMAZR__0.TTF");
+}
+
+@font-face{
+	font-family: segoeui_one;
+	src: url("../fonts/SEGOEUI.TTF");
+}
+
+@font-face{
+	font-family: segoeui_two;
+	src: url("../fonts/SEGOEUIB.TTF");
+}
+
+@font-face{
+	font-family: segoeui_three;
+	src: url("../fonts/SEGOEUII.TTF");
+}
+
+@font-face{
+	font-family: segoeui_four;
+	src: url("../fonts/SEGOEUIL.TTF");
+}
+
+@font-face{
+	font-family: segoeui_five;
+	src: url("../fonts/SEGOEUISL.TTF");
+}
+
+@font-face{
+	font-family: segoeui_six;
+	src: url("../fonts/SEGOEUIZ.TTF");
+}
+
+@font-face{
+	font-family: segui_one;
+	src: url("../fonts/SEGUIBL.TTF");
+}
+
+@font-face{
+	font-family: segui_two;
+	src: url("../fonts/SEGUIBLI.TTF");
+}
+
+@font-face{
+	font-family: segui_three;
+	src: url("../fonts/SEGUILI.TTF");
+}
+
+@font-face{
+	font-family: segui_four;
+	src: url("../fonts/SEGUISB.TTF");
+}
+
+@font-face{
+	font-family: segui_five;
+	src: url("../fonts/SEGUISBI.TTF");
+}
+
+@font-face{
+	font-family: segui_six;
+	src: url("../fonts/SEGUISLI.TTF");
+}
